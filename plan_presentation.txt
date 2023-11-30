@@ -1,0 +1,8 @@
+- Qu'est-ce qu'un neural network
+- Explication des matrices et relation avec les neural network
+- Qu'est-ce que la classification et la regression
+- Introduction à pytorch
+- Exploration du data
+- Présentation du model
+- Boucle d'entrainement
+- Code au complet
